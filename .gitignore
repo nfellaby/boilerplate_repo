@@ -1,0 +1,8 @@
+# Python example
+__pycache__/
+*.py[cod]
+.env
+*.log
+*.tmp
+*.swp
+.DS_Store
